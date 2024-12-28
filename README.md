@@ -1,0 +1,1 @@
+This repository demonstrates a common error in VBScript where a type mismatch occurs during string comparison. The `bug.vbs` file showcases the problematic code, while `bugSolution.vbs` provides the corrected version. The error stems from implicit type coercion and can be easily avoided by explicit type checking or using a different comparison method.
